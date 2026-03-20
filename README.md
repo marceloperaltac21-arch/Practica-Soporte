@@ -1,2 +1,3 @@
-# Practica-Soporte
-Repositorio de prueba para gestion de script de soporte y documentacion tecnica
+# Manual de Soporte - App Interna
+Servidor de BD: 10.0.0.5
+Estado: en mantenimiento.
